@@ -33,7 +33,7 @@
 <html>
 	<head>
 	<title>chatting ui</title>
-	<link rel="stylesheet" href="style/style.css">
+	<link rel="stylesheet" href="style.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 	<script src="https://kit.fontawesome.com/a8530e2e11.js" crossorigin="anonymous"></script>
